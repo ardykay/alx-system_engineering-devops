@@ -1,1 +1,1 @@
-pwd : print absolute path of the current working dorectory
+cd .. : To Write a script that changes the working directory to the user’s home directory.
